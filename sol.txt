@@ -1,1 +1,2 @@
-
+tmpfs            994M      0  994M   9% /sys/fs/cgroup
+/dev/loop7       256M   256M     0   4% /snap/gnome-3-34-1804/36
