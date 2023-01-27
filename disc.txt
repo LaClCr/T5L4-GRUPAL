@@ -13,5 +13,7 @@ tmpfs            994M      0  994M   9% /sys/fs/cgroup
 /dev/loop5        56M    56M     0  90% /snap/core18/1885
 /dev/loop6        30M    30M     0 100% /snap/snapd/8542
 /dev/loop7       256M   256M     0   4% /snap/gnome-3-34-1804/36
+tmpfs            199M    28K  199M  20% /run/user/1000
 /dev/loop7       256M   256M     0   49% /snap/gnome-3-34-1804/36
 tmpfs            199M    28K  199M  20% /run/user/1000
+
