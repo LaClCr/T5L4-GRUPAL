@@ -1,1 +1,4 @@
 
+/dev/loop2       1,0M   1,0M     0  60% /snap/gnome-logs/100
+/dev/loop7       256M   256M     0   49% /snap/gnome-3-34-1804/36
+
