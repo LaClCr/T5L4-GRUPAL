@@ -1,1 +1,4 @@
-
+udev             971M      0  971M   0% /dev
+tmpfs            199M   1,3M  198M   1% /run
+tmpfs            994M      0  994M   0% /dev/shm
+tmpfs            5,0M   4,0K  5,0M   1% /run/lock
