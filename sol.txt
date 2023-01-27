@@ -1,1 +1,5 @@
 
+/dev/sda1         15G   4,8G  9,3G  35% /
+/dev/loop1        63M    63M     0  10% /snap/gtk-common-themes/1506
+/dev/loop0       2,3M   2,3M     0  10% /snap/gnome-system-monitor/148
+tmpfs            199M    28K  199M  20% /run/user/1000
