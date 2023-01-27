@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 udev             971M      0  971M   0% /dev
 tmpfs            199M   1,3M  198M   1% /run
@@ -23,3 +24,9 @@ tmpfs            994M      0  994M   9% /sys/fs/cgroup
 /dev/loop5        56M    56M     0  90% /snap/core18/1885
 /dev/loop6        30M    30M     0 100% /snap/snapd/8542
 
+=======
+/dev/sda1         15G   4,8G  9,3G  35% /
+/dev/loop1        63M    63M     0  10% /snap/gtk-common-themes/1506
+/dev/loop0       2,3M   2,3M     0  10% /snap/gnome-system-monitor/148
+tmpfs            199M    28K  199M  20% /run/user/1000
+>>>>>>> origin/hugo
